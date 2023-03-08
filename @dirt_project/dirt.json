@@ -1,0 +1,9 @@
+{
+  "projectConfig": {
+    "projectName": "saidoc",
+    "frontend": "react",
+    "withStorybook": true,
+    "initializeGit": true,
+    "verboseLogs": false
+  }
+}
